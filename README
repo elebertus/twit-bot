@@ -1,0 +1,9 @@
+== Twit-bot
+Twitter plugin for cinchrb
+The plugin will collect urls posted in the channel based on the regex in the LISTEN class.
+After the url is pasted to Twitter the bot prints the twitter url to the status update.
+
+== Config
+Add your consumer key, secret, etc.
+Change the UserName to the twitter user name for your account.
+

@@ -1,0 +1,4 @@
+== Things to change
+Find out if you can use YAML, or something for the Twitter oath creds.
+See if it's worth while to make the UserName in TWIT class more modular.
+Possibly change the bot to listen to !url instead reacting on channel.
